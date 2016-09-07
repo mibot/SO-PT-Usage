@@ -1,0 +1,23 @@
+\section{Methodology}
+\noindent To conduct the study we considered the Portuguese version (SOPT) and have downloaded the data from the Stack Exchange (SE) data dump\footnote{https://archive.org/details/stackexchange}. The data extraction has been performed on March 7, 2016, and included data from November 2013 to February 2016. The XML files corresponding to the tags, users, and posts were transferred to a MySql database, through a R function per type of file (i.e., posts, users, and tags). 
+
+\begin{table}[ht]
+\begin{center}
+\scriptsize{
+\begin{tabular}{lr}
+\hline
+tags & 2k \\
+users & 26K \\
+posts & 93K \\
+$\;\;$questions & 38K \\
+$\;\;\;\;$tagsOfQuestions & 37k \\ 
+$\;\;$answers & 51K \\
+\end{tabular}
+\caption{Size of tables in SOPT.}
+\label{tbl:dbSize}
+}
+\end{center}
+\end{table}
+
+After creating the tables few users were eliminated due to lack of data. None of these users had AccountId (i.e., user identifier for all stackExchange websites), LastAccessDate, WebsiteUrl, Location, UpVotes, DownVotes or Age. All of these users have the same display name (i.e., "a25bedc5-3d09-41b8-82fb-ea6c353d75ae"), and whenever they have a ProfileImageUrl, it is the same\footnote{https://www.gravatar.com/avatar/?s=128\&d=identicon\&r=PG\&f=1}.
+These accounts were created at different times from November 2010 to February 2016. We could not come up with a plausible reason for these anonymous users having the same display name but no other data, they do not seem to have anything in common. In total 3 SOPT users have been eliminated (see Table \ref{tbl:dbSize}).

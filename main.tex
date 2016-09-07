@@ -1,0 +1,40 @@
+\documentclass [11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{ifthen}
+\usepackage{amssymb}
+\newboolean{showcomments}
+\setboolean{showcomments}{true} % toggle to show or hide comments
+\ifthenelse{\boolean{showcomments}}
+  {\newcommand{\nb}[2]{
+    \fcolorbox{gray}{yellow}{\bfseries\sffamily\scriptsize#1}
+    {\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}
+   }
+   \newcommand{\version}{\emph{\scriptsize$-$working$-$}}
+  }
+  {\newcommand{\nb}[2]{}
+   \newcommand{\version}{}
+  }
+  
+\newcommand{\mb}[1]{\nb{Miguel}{#1}}
+\newcommand{\al}[1]{\nb{Angela}{#1}}
+\newcommand{\bv}[1]{\nb{Bogdan}{#1}}
+\newcommand{\wt}[1]{\nb{Weslley}{#1}}
+\newcommand{\as}[1]{\nb{Alexander}{#1}}
+
+\usepackage[normalem]{ulem}
+
+\title{SOPT Usage}
+
+
+\begin{document}
+\maketitle
+
+\input{introduction}
+\input{methodology}
+\input{results}
+
+
+
+\noindent Finally,  \as{incomplete sentence} 
+\end{document}
