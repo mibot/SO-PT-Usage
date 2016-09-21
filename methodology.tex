@@ -11,10 +11,10 @@ Consequent the locations were identified, a group of 25 students \mb{I don't kno
     \item First, we started to look each user profile by \textit{userId}, i.e. \url{http://pt.stackoverflow.com/users/1919/}, where \textbf{1919} is the \textit{userId}.
     \item Then, on the user profile, we looked the email address, if it was not on we checked whether he/she has GitHub account or personal web page. 
         \begin{itemize}
-            \item With Github account was possible to find out the email address below \textit{userName} if was not on, we checked his/her public activity looking for at he/she did a git push command \footnote{https://git-scm.com/docs/git-push}, and then we searched the email address using a Github API \footnote{https://api.github.com/users/userName/events/public} by \textit{userName}.
+            \item With Github account was possible to find out the email address below \textit{userName} if it was not on, we used a browser extension gitDiscovered\footnote{https://gitdiscovered.com/} to discover the email address or we checked his/her public activity looking for at he/she did a git command \footnote{https://git-scm.com/docs/git-push}, and then we searched the email address using a Github API \footnote{https://api.github.com/users/userName/events/public} by \textit{userName}.
             \item With the personal web page, we searched the email address on the section about me or \textit{sobre me} in the Portuguese language.
-            \item If none of the above, we used GitHub and searched by userName from SOPT user table, i.e: Sergio Pantano, w1l14n, lucaspirola, etc., and we followed the steps above mentioned with GitHub account.                 
+            \item If none of the above, we used GitHub and searched by userName from SOPT, i.e: Sergio Pantano, w1l14n, lucaspirola, etc., and here we compared profile picture, location, skills, creation date between SOPT and search results on GitHub, and then we followed the steps above mentioned with GitHub account.              
        \end{itemize}            
    \end{itemize} 
-To ensure the accuracy of the results, we selected a random group of 15 users and searched using the steps above mentioned. In the case they were inconsistent, we chose another one random group, and if it continued we searched all users and compared with the previous outcomes.
+To ensure the accuracy of the results, we selected a random group of 15 users of 500 profiles and searched using the steps above mentioned. In the case they were inconsistent, we chose another one random group of 15, and if it continued we searched all users and compared with the previous outcomes.
 
