@@ -28,6 +28,14 @@
 \newcommand{\as}[1]{\nb{Alexander}{#1}}
 
 \usepackage[normalem]{ulem}
+\usepackage{url}
+
+\usepackage{xspace}
+\newcommand{\ie}{{\emph{i.e.}},\xspace}
+\newcommand{\viz}{{\emph{viz.}},\xspace}
+\newcommand{\eg}{{\emph{e.g.}},\xspace}
+\newcommand{\etc}{etc.}
+\newcommand{\etal}{{\emph{et al.}}}
 
 % *** GRAPHICS RELATED PACKAGES ***
 %
@@ -301,10 +309,11 @@ The abstract goes here.
 
 \IEEEpeerreviewmaketitle
 
-\input{introduction.tex}
-\input{methodology.tex}
+\input{introduction}
+\input{theory}
+\input{methodology}
 \input{interview}
-\input{results.tex}
+\input{results}
 %\input{discussion.tex}
 %\input{conclusion.tex}
 \bibliography{references}
