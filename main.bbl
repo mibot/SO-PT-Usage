@@ -127,4 +127,25 @@ R.~Opdenakker, ``Advantages and disadvantages of four interview techniques in
   \url{http://www.qualitative-research.net/index.php/fqs/article/view/175}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Kitchenham2002}
+\BIBentryALTinterwordspacing
+B.~a. Kitchenham and S.~L. Pfleeger, ``{Principles of Survey Research Part 2 :
+  Designing a Survey Sample size Experimental designs},'' \emph{Software
+  Engineering Notes}, vol.~27, no.~1, pp. 18--20, 2002. [Online]. Available:
+  \url{http://portal.acm.org/citation.cfm?doid=566493.566495}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Ford2016Paradise}
+\BIBentryALTinterwordspacing
+D.~Ford, J.~Smith, P.~J. Guo, and C.~Parnin, ``Paradise unplugged: Identifying
+  barriers for female participation on stack overflow,'' in \emph{Proceedings
+  of the 2016 24th ACM SIGSOFT International Symposium on Foundations of
+  Software Engineering}, ser. FSE 2016.\hskip 1em plus 0.5em minus 0.4em\relax
+  New York, NY, USA: ACM, 2016, pp. 846--857. [Online]. Available:
+  \url{http://doi.acm.org/10.1145/2950290.2950331}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Google}
+Google, ``{Google Forms}.''
+
 \end{thebibliography}

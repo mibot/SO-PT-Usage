@@ -4,7 +4,7 @@
 \subsection{Data Preprocesing}
 We cleansed the tables eliminating few users were due to lack of data. None of these users had AccountId (i.e., user identifier for all stackExchange websites), LastAccessDate, WebsiteUrl, Location, UpVotes, DownVotes or Age. All of these users have the same display name (i.e., "a25bedc5-3d09-41b8-82fb-ea6c353d75ae"), and whenever they have a ProfileImageUrl, it is the same\footnote{https://www.gravatar.com/avatar/?s=128\&d=identicon\&r=PG\&f=1}. These accounts were created at different times from November 2015 to February 2016. We could not come up with a plausible reason for these anonymous users having the same display name but no other data, they do not seem to have anything in common. In total 3 SOPT users have been eliminated. 
 
-We focused on Brazilian users thus to identify their location we used \texttt{countryNameManager}\footnote{https://github.com/tue-mdse/countryNameManager}.
+To identify their location we used \texttt{countryNameManager}\footnote{https://github.com/tue-mdse/countryNameManager}.
 
 \subsection{Searching Process}
 Consequently, the locations were identified, and before starting the search a group of students were selected based on whether they had experience in use SO (in Spanish version) or GitHub, as detailed below:\\
