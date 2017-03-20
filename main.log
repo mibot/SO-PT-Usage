@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.10)  16 MAR 2017 17:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.10)  19 MAR 2017 23:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -204,125 +204,240 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks18
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count96
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+)
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box28
+)
+\tc@llx=\dimen129
+\tc@lly=\dimen130
+\tc@urx=\dimen131
+\tc@ury=\dimen132
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen133
+\adjbox@Height=\dimen134
+\adjbox@Depth=\dimen135
+\adjbox@Totalheight=\dimen136
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count97
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box29
+\sift@deathcycles=\count98
+\@vwid@loff=\dimen137
+\@vwid@roff=\dimen138
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count99
+\float@exts=\toks21
+\float@box=\box30
+\@float@everytoks=\toks22
+\@floatcapt=\box31
+)
 (/usr/local/texlive/2016/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box28
-\UL@hyphenbox=\box29
+\UL@box=\box32
+\UL@hyphenbox=\box33
 \UL@skip=\skip44
-\UL@hook=\toks19
-\UL@height=\dimen127
-\UL@pe=\count96
-\UL@pixel=\dimen128
-\ULC@box=\box30
+\UL@hook=\toks23
+\UL@height=\dimen139
+\UL@pe=\count100
+\UL@pixel=\dimen140
+\ULC@box=\box34
 Package: ulem 2012/05/18
-\ULdepth=\dimen129
+\ULdepth=\dimen141
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 244.
-LaTeX Font Info:    ... okay on input line 244.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 244.
-LaTeX Font Info:    ... okay on input line 244.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 244.
-LaTeX Font Info:    ... okay on input line 244.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 244.
-LaTeX Font Info:    ... okay on input line 244.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 244.
-LaTeX Font Info:    ... okay on input line 244.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 244.
-LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 245.
+LaTeX Font Info:    ... okay on input line 245.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 245.
+LaTeX Font Info:    ... okay on input line 245.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 245.
+LaTeX Font Info:    ... okay on input line 245.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 245.
+LaTeX Font Info:    ... okay on input line 245.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 245.
+LaTeX Font Info:    ... okay on input line 245.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 245.
+LaTeX Font Info:    ... okay on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 245.
 
 -- Lines per column: 56 (exact).
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count97
-\scratchdimen=\dimen130
-\scratchbox=\box31
-\nofMPsegments=\count98
-\nofMParguments=\count99
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count100
-\MPscratchDim=\dimen131
-\MPnumerator=\count101
-\makeMPintoPDFobject=\count102
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count101
+\scratchdimen=\dimen142
+\scratchbox=\box35
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen143
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 308.
-LaTeX Font Info:    Try loading font information for U+msa on input line 308.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 309.
+LaTeX Font Info:    Try loading font information for U+msa on input line 309.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 308.
+LaTeX Font Info:    Try loading font information for U+msb on input line 309.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-** WARNING: \IEEEmembership is locked out when in conference mode (line 308).
+** WARNING: \IEEEmembership is locked out when in conference mode (line 309).
 (./introduction.tex
-LaTeX Font Info:    Try loading font information for T1+phv on input line 8.
+Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
+ []
+
+LaTeX Font Info:    Try loading font information for T1+phv on input line 12.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 8.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 8.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 8.
-
-Underfull \hbox (badness 1622) in paragraph at lines 7--13
-[][][] $\U/msa/m/n/9 I$\T1/phv/m/sl/9 related to pro-gram-ming lan-guages, en-v
-i-ron-ment,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--13
-
- []
-
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 12.
 ) (./theory.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--8
 [][][]$\T1/ptm/m/n/8 http : / / www . oracle . com / technetwork / indexes / do
@@ -360,7 +475,12 @@ LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <7> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <7> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 2.
- [4]) (./main.bbl
+ [4]
+Overfull \hbox (9.55023pt too wide) in paragraph at lines 61--62
+ [] 
+ []
+
+) (./main.bbl
 Underfull \hbox (badness 4940) in paragraph at lines 26--31
 \T1/ptm/m/n/8 Avail-able: $http : / / dl . acm . org / citation . cfm ? id = 24
 80557{\ % }5Cnhttp :
@@ -384,7 +504,7 @@ Overfull \hbox (62.04445pt too wide) in paragraph at lines 64--69
 ultilingual-[]communication-[]and-[]translation /
  []
 
-)
+[5])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -396,31 +516,33 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5] (./main.aux) ) 
+[6
+
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3750 strings out of 493014
- 52230 string characters out of 6133351
- 130322 words of memory out of 5000000
- 7214 multiletter control sequences out of 15000+600000
+ 5092 strings out of 493014
+ 74437 string characters out of 6133351
+ 159642 words of memory out of 5000000
+ 8470 multiletter control sequences out of 15000+600000
  141951 words of font info for 161 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 33i,12n,35p,1184b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.e
-nc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
-ype1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
-imes/utmri8a.pfb>
-Output written on main.pdf (5 pages, 138008 bytes).
+ 38i,14n,35p,1184b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/tim
+es/utmri8a.pfb>
+Output written on main.pdf (6 pages, 135695 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
